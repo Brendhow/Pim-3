@@ -1,0 +1,3 @@
+﻿1>------ Rebuild All started: Project: TelasPim, Configuration: Debug Any CPU ------
+1>  TelasPim -> C:\Users\Diego\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
